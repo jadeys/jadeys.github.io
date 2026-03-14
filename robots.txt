@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jadeys.github.io/jadeys.github.io/sitemap.xml
+Sitemap: https://jadeys.github.io/sitemap.xml
