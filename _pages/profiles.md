@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: group
 description: members of the group
 nav: true
 nav_order: 1
@@ -107,7 +107,6 @@ profiles:
       <p></p>
 
 
-
   - align: right
     image: 
     content: 
@@ -115,21 +114,19 @@ profiles:
     more_info: >
       <p></p>
 
-
+  # 林飞
   - align: right
-    image: prof_pic.jpg
+    image: Linfei.png
     content: about_Linfei.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p></p>
-      <p></p>
-      <p></p>
-  - align: left
-    image: prof_pic.jpg
+
+  # 梅常霖
+  - align: right
+    image: Meichanglin.png
     content: about_Meichanglin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p></p>
-      <p></p>
       <p></p>
 ---
