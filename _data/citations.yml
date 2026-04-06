@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-06'
 papers:
   wpwzNFEAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -50,7 +50,7 @@ papers:
     title: Assessment of GRACE monthly solutions by quantifying the noise level in mass anomaly time-series with the variance component estimation
     year: '2018'
   wpwzNFEAAAAJ:BqipwSGYUEgC:
-    citations: 27
+    citations: 28
     title: Temporal identity interaction dynamic graph convolutional network for traffic forecasting
     year: '2025'
   wpwzNFEAAAAJ:GnPB-g6toBAC:
@@ -85,6 +85,10 @@ papers:
     citations: 29
     title: Statistically optimal estimation of degree-1 and C20 coefficients based on GRACE data and an ocean bottom pressure model
     year: '2017'
+  wpwzNFEAAAAJ:M05iB0D1s5AC:
+    citations: 1
+    title: "Investigating the closures of sea level budgets in China\u2019s adjacent seas"
+    year: '2025'
   wpwzNFEAAAAJ:M3NEmzRMIkIC:
     citations: 0
     title: 'SLK-SLAM: Integrating semantics and optical flow for SLAM in dynamic environments'
@@ -166,7 +170,7 @@ papers:
     title: 'Updated Delft Mass Transport model DMT-2: computation and validation'
     year: '2014'
   wpwzNFEAAAAJ:_FxGoFyzp5QC:
-    citations: 377
+    citations: 381
     title: Optimizing estimates of annual variations and trends in geocenter motion and J2 from a combination of GRACE data and geophysical models
     year: '2016'
   wpwzNFEAAAAJ:_Qo2XoVZTnwC:
@@ -186,7 +190,7 @@ papers:
     title: Bathymetry of the Gulf of Mexico predicted with multilayer perceptron from multisource marine geodetic data
     year: '2023'
   wpwzNFEAAAAJ:blknAaTinKkC:
-    citations: 19
+    citations: 18
     title: Predicting bathymetry using multisource differential marine geodetic data with multilayer perceptron neural network
     year: '2024'
   wpwzNFEAAAAJ:dhFuZR0502QC:
@@ -239,7 +243,7 @@ papers:
     year: '2017'
   wpwzNFEAAAAJ:ldfaerwXgEUC:
     citations: 0
-    title: 'Uncertainty Analysis of Bathymetry Inversion in the South China Sea: A Comparison of Deep Learning and Bayesian Approaches'
+    title: 'Uncertainty analysis of bathymetry inversion in the South China Sea: a comparison of deep learning and Bayesian approaches'
     year: '2026'
   wpwzNFEAAAAJ:mB3voiENLucC:
     citations: 22
