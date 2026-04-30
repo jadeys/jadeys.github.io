@@ -1,0 +1,6 @@
+
+编辑个人网页的常用方法：
+
+启动本地服务器
+命令行输入：bundle exec jekyll serve, 即可在http://localhost:4000网址看到网页
+若没有问题，可以用 git add ., git commit, git push 推送至github
