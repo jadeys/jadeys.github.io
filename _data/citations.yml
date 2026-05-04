@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-04'
 papers:
   wpwzNFEAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Sub-basin scale sea level budgets from satellite altimetry, Argo floats and satellite gravimetry in the North Atlantic
     year: Unknown Year
   wpwzNFEAAAAJ:0EnyYjriUFMC:
-    citations: 83
+    citations: 82
     title: Improving estimates of water resources in a semi-arid region by assimilating GRACE data into the PCR-GLOBWB hydrological model
     year: '2017'
   wpwzNFEAAAAJ:2P1L_qKh6hAC:
@@ -35,10 +35,10 @@ papers:
     year: '2013'
   wpwzNFEAAAAJ:70eg2SAEIzsC:
     citations: 0
-    title: Assessing and optimizing high-resolution global river streamflow estimates with triple collocation analysis
-    year: '2026'
+    title: Assessing and Optimizing High-Resolution Global River Streamflow Estimates with Triple Collocation Analysis
+    year: Unknown Year
   wpwzNFEAAAAJ:7PzlFSSx8tAC:
-    citations: 40
+    citations: 41
     title: Estimation of SLR station coordinates by means of SLR measurements to kinematic orbit of LEO satellites
     year: '2018'
   wpwzNFEAAAAJ:8k81kl-MbHgC:
@@ -50,7 +50,7 @@ papers:
     title: Assessment of GRACE monthly solutions by quantifying the noise level in mass anomaly time-series with the variance component estimation
     year: '2018'
   wpwzNFEAAAAJ:BqipwSGYUEgC:
-    citations: 31
+    citations: 32
     title: Temporal identity interaction dynamic graph convolutional network for traffic forecasting
     year: '2025'
   wpwzNFEAAAAJ:GnPB-g6toBAC:
@@ -66,7 +66,7 @@ papers:
     title: Using GRACE to explain variations in the Earth's oblateness
     year: '2019'
   wpwzNFEAAAAJ:JV2RwH3_ST0C:
-    citations: 13
+    citations: 14
     title: On performance of vertical gravity gradient determined from CryoSat-2 altimeter data over Arabian Sea
     year: '2023'
   wpwzNFEAAAAJ:J_g5lzvAfSwC:
@@ -170,11 +170,11 @@ papers:
     title: 'Updated Delft Mass Transport model DMT-2: computation and validation'
     year: '2014'
   wpwzNFEAAAAJ:_FxGoFyzp5QC:
-    citations: 385
+    citations: 386
     title: Optimizing estimates of annual variations and trends in geocenter motion and J2 from a combination of GRACE data and geophysical models
     year: '2016'
   wpwzNFEAAAAJ:_Qo2XoVZTnwC:
-    citations: 14
+    citations: 15
     title: "Declined trends of chlorophyll a in the South China Sea over 2005\u20132019 from remote sensing reconstruction"
     year: '2023'
   wpwzNFEAAAAJ:_kc_bZDykSQC:
