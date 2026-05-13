@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-13'
 papers:
   wpwzNFEAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Sub-basin scale sea level budgets from satellite altimetry, Argo floats and satellite gravimetry in the North Atlantic
     year: Unknown Year
   wpwzNFEAAAAJ:0EnyYjriUFMC:
-    citations: 82
+    citations: 83
     title: Improving estimates of water resources in a semi-arid region by assimilating GRACE data into the PCR-GLOBWB hydrological model
     year: '2017'
   wpwzNFEAAAAJ:2P1L_qKh6hAC:
@@ -35,8 +35,8 @@ papers:
     year: '2013'
   wpwzNFEAAAAJ:70eg2SAEIzsC:
     citations: 0
-    title: Assessing and Optimizing High-Resolution Global River Streamflow Estimates with Triple Collocation Analysis
-    year: Unknown Year
+    title: Assessing and optimizing high-resolution global river streamflow estimates with triple collocation analysis
+    year: '2026'
   wpwzNFEAAAAJ:7PzlFSSx8tAC:
     citations: 41
     title: Estimation of SLR station coordinates by means of SLR measurements to kinematic orbit of LEO satellites
@@ -122,7 +122,7 @@ papers:
     title: "Geophysical signal detection in the Earth\u2019s oblateness variation and its climate-driven source analysis"
     year: '2021'
   wpwzNFEAAAAJ:RGFaLdJalmkC:
-    citations: 1
+    citations: 2
     title: Performance of marine gravity anomalies extracted from SWOT KaRIn data of science phase in the Gulf of Mexico
     year: '2025'
   wpwzNFEAAAAJ:RHpTSmoSYBkC:
@@ -138,7 +138,7 @@ papers:
     title: "Observed changes in the Earth\u2019s dynamic oblateness from GRACE data and geophysical models"
     year: '2016'
   wpwzNFEAAAAJ:TFP_iSt0sucC:
-    citations: 5
+    citations: 6
     title: Real-time occupancy detection of on-street parking spaces based on an edge device
     year: '2022'
   wpwzNFEAAAAJ:ULOm3_A8WrAC:
@@ -218,7 +218,7 @@ papers:
     title: Uncertainty in geocenter estimates in the context of ITRF2014
     year: '2017'
   wpwzNFEAAAAJ:iH-uZ7U-co4C:
-    citations: 22
+    citations: 23
     title: Reduced misclosure of global sea-level budget with updated Tongji-Grace2018 solution
     year: '2021'
   wpwzNFEAAAAJ:isC4tDSrTZIC:
