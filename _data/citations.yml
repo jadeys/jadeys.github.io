@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-20'
 papers:
   wpwzNFEAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Sub-basin scale sea level budgets from satellite altimetry, Argo floats and satellite gravimetry in the North Atlantic
     year: Unknown Year
   wpwzNFEAAAAJ:0EnyYjriUFMC:
-    citations: 83
+    citations: 84
     title: Improving estimates of water resources in a semi-arid region by assimilating GRACE data into the PCR-GLOBWB hydrological model
     year: '2017'
   wpwzNFEAAAAJ:2P1L_qKh6hAC:
@@ -50,7 +50,7 @@ papers:
     title: Assessment of GRACE monthly solutions by quantifying the noise level in mass anomaly time-series with the variance component estimation
     year: '2018'
   wpwzNFEAAAAJ:BqipwSGYUEgC:
-    citations: 32
+    citations: 33
     title: Temporal identity interaction dynamic graph convolutional network for traffic forecasting
     year: '2025'
   wpwzNFEAAAAJ:GnPB-g6toBAC:
@@ -170,7 +170,7 @@ papers:
     title: 'Updated Delft Mass Transport model DMT-2: computation and validation'
     year: '2014'
   wpwzNFEAAAAJ:_FxGoFyzp5QC:
-    citations: 386
+    citations: 387
     title: Optimizing estimates of annual variations and trends in geocenter motion and J2 from a combination of GRACE data and geophysical models
     year: '2016'
   wpwzNFEAAAAJ:_Qo2XoVZTnwC:
@@ -186,7 +186,7 @@ papers:
     title: A benchmark study of numerical implementations of the sea level equation in GIA modelling
     year: '2018'
   wpwzNFEAAAAJ:bEWYMUwI8FkC:
-    citations: 30
+    citations: 31
     title: Bathymetry of the Gulf of Mexico predicted with multilayer perceptron from multisource marine geodetic data
     year: '2023'
   wpwzNFEAAAAJ:blknAaTinKkC:
@@ -214,7 +214,7 @@ papers:
     title: Real-time Detection of Illegally Parked Vehicles in Roadside Parking Areas Based on Intelligent Video Terminals
     year: '2024'
   wpwzNFEAAAAJ:hqOjcs7Dif8C:
-    citations: 45
+    citations: 46
     title: Uncertainty in geocenter estimates in the context of ITRF2014
     year: '2017'
   wpwzNFEAAAAJ:iH-uZ7U-co4C:
