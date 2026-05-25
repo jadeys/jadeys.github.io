@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-25'
 papers:
   wpwzNFEAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Sub-basin scale sea level budgets from satellite altimetry, Argo floats and satellite gravimetry in the North Atlantic
     year: Unknown Year
   wpwzNFEAAAAJ:0EnyYjriUFMC:
-    citations: 84
+    citations: 83
     title: Improving estimates of water resources in a semi-arid region by assimilating GRACE data into the PCR-GLOBWB hydrological model
     year: '2017'
   wpwzNFEAAAAJ:2P1L_qKh6hAC:
@@ -35,8 +35,8 @@ papers:
     year: '2013'
   wpwzNFEAAAAJ:70eg2SAEIzsC:
     citations: 0
-    title: Assessing and optimizing high-resolution global river streamflow estimates with triple collocation analysis
-    year: '2026'
+    title: Assessing and Optimizing High-Resolution Global River Streamflow Estimates with Triple Collocation Analysis
+    year: Unknown Year
   wpwzNFEAAAAJ:7PzlFSSx8tAC:
     citations: 41
     title: Estimation of SLR station coordinates by means of SLR measurements to kinematic orbit of LEO satellites
@@ -170,7 +170,7 @@ papers:
     title: 'Updated Delft Mass Transport model DMT-2: computation and validation'
     year: '2014'
   wpwzNFEAAAAJ:_FxGoFyzp5QC:
-    citations: 387
+    citations: 388
     title: Optimizing estimates of annual variations and trends in geocenter motion and J2 from a combination of GRACE data and geophysical models
     year: '2016'
   wpwzNFEAAAAJ:_Qo2XoVZTnwC:
