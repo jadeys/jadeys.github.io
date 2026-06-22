@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-22'
 papers:
   wpwzNFEAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -50,7 +50,7 @@ papers:
     title: Assessment of GRACE monthly solutions by quantifying the noise level in mass anomaly time-series with the variance component estimation
     year: '2018'
   wpwzNFEAAAAJ:BqipwSGYUEgC:
-    citations: 37
+    citations: 41
     title: Temporal identity interaction dynamic graph convolutional network for traffic forecasting
     year: '2025'
   wpwzNFEAAAAJ:GnPB-g6toBAC:
@@ -134,7 +134,7 @@ papers:
     title: An SVMD-based mode extraction criterion for geocentre motion analysis
     year: '2026'
   wpwzNFEAAAAJ:Se3iqnhoufwC:
-    citations: 29
+    citations: 30
     title: "Observed changes in the Earth\u2019s dynamic oblateness from GRACE data and geophysical models"
     year: '2016'
   wpwzNFEAAAAJ:TFP_iSt0sucC:
@@ -170,7 +170,7 @@ papers:
     title: 'Updated Delft Mass Transport model DMT-2: computation and validation'
     year: '2014'
   wpwzNFEAAAAJ:_FxGoFyzp5QC:
-    citations: 392
+    citations: 397
     title: Optimizing estimates of annual variations and trends in geocenter motion and J2 from a combination of GRACE data and geophysical models
     year: '2016'
   wpwzNFEAAAAJ:_Qo2XoVZTnwC:
@@ -182,7 +182,7 @@ papers:
     title: Estimating Geocenter Motion and Changes in the Earth's Dynamic Oblateness from a Statistically Optimal Combination of GRACE Data and Geophysical Models
     year: '2016'
   wpwzNFEAAAAJ:aqlVkmm33-oC:
-    citations: 62
+    citations: 63
     title: A benchmark study of numerical implementations of the sea level equation in GIA modelling
     year: '2018'
   wpwzNFEAAAAJ:bEWYMUwI8FkC:
@@ -190,7 +190,7 @@ papers:
     title: Bathymetry of the Gulf of Mexico predicted with multilayer perceptron from multisource marine geodetic data
     year: '2023'
   wpwzNFEAAAAJ:blknAaTinKkC:
-    citations: 19
+    citations: 20
     title: Predicting bathymetry using multisource differential marine geodetic data with multilayer perceptron neural network
     year: '2024'
   wpwzNFEAAAAJ:dhFuZR0502QC:
@@ -210,7 +210,7 @@ papers:
     title: Equation Chapter 1 Section 1Improvements in the monthly gravity field
     year: '2018'
   wpwzNFEAAAAJ:hMod-77fHWUC:
-    citations: 1
+    citations: 2
     title: Real-time Detection of Illegally Parked Vehicles in Roadside Parking Areas Based on Intelligent Video Terminals
     year: '2024'
   wpwzNFEAAAAJ:hqOjcs7Dif8C:
