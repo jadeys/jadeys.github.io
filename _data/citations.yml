@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-01'
 papers:
   wpwzNFEAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Sub-basin scale sea level budgets from satellite altimetry, Argo floats and satellite gravimetry in the North Atlantic
     year: Unknown Year
   wpwzNFEAAAAJ:0EnyYjriUFMC:
-    citations: 84
+    citations: 85
     title: Improving estimates of water resources in a semi-arid region by assimilating GRACE data into the PCR-GLOBWB hydrological model
     year: '2017'
   wpwzNFEAAAAJ:2P1L_qKh6hAC:
@@ -35,8 +35,8 @@ papers:
     year: '2013'
   wpwzNFEAAAAJ:70eg2SAEIzsC:
     citations: 0
-    title: Assessing and Optimizing High-Resolution Global River Streamflow Estimates with Triple Collocation Analysis
-    year: Unknown Year
+    title: Assessing and optimizing high-resolution global river streamflow estimates with triple collocation analysis
+    year: '2026'
   wpwzNFEAAAAJ:7PzlFSSx8tAC:
     citations: 40
     title: Estimation of SLR station coordinates by means of SLR measurements to kinematic orbit of LEO satellites
@@ -50,7 +50,7 @@ papers:
     title: Assessment of GRACE monthly solutions by quantifying the noise level in mass anomaly time-series with the variance component estimation
     year: '2018'
   wpwzNFEAAAAJ:BqipwSGYUEgC:
-    citations: 41
+    citations: 43
     title: Temporal identity interaction dynamic graph convolutional network for traffic forecasting
     year: '2025'
   wpwzNFEAAAAJ:GnPB-g6toBAC:
@@ -82,7 +82,7 @@ papers:
     title: Orthometric height connection across sea with ship-borne gravimetry and GNSS measurement along the ship route
     year: '2017'
   wpwzNFEAAAAJ:LkGwnXOMwfcC:
-    citations: 29
+    citations: 30
     title: Statistically optimal estimation of degree-1 and C20 coefficients based on GRACE data and an ocean bottom pressure model
     year: '2017'
   wpwzNFEAAAAJ:M05iB0D1s5AC:
@@ -102,7 +102,7 @@ papers:
     title: Lunar deflections of the vertical and their distribution
     year: '2011'
   wpwzNFEAAAAJ:NMxIlDl6LWMC:
-    citations: 6
+    citations: 8
     title: 'Unveiling GRACE-based estimation techniques: insights from multichannel singular spectrum analysis of geocentre motion'
     year: '2025'
   wpwzNFEAAAAJ:NaGl4SEjCO4C:
@@ -170,7 +170,7 @@ papers:
     title: 'Updated Delft Mass Transport model DMT-2: computation and validation'
     year: '2014'
   wpwzNFEAAAAJ:_FxGoFyzp5QC:
-    citations: 397
+    citations: 396
     title: Optimizing estimates of annual variations and trends in geocenter motion and J2 from a combination of GRACE data and geophysical models
     year: '2016'
   wpwzNFEAAAAJ:_Qo2XoVZTnwC:
@@ -198,9 +198,13 @@ papers:
     title: Jianbo Wang, Jinyun Guo, Xin Liu
     year: Unknown Year
   wpwzNFEAAAAJ:e5wmG9Sq2KIC:
-    citations: 12
+    citations: 14
     title: 'A framework for assessing the dynamic coastlines induced by urbanization using remote sensing data: A case study in Fujian, China'
     year: '2022'
+  wpwzNFEAAAAJ:g5m5HwL7SMYC:
+    citations: 0
+    title: "1.5\u2010year periodic variations in the equatorial components of the Earth's figure axis and their dynamical response to major climate modes"
+    year: '2026'
   wpwzNFEAAAAJ:hC7cP41nSMkC:
     citations: 0
     title: A global empirical GIA model based on GRACE data
@@ -226,7 +230,7 @@ papers:
     title: Assessment of the added value of the GOCE GPS data on the GRACE monthly gravity field solutions
     year: '2024'
   wpwzNFEAAAAJ:j3f4tGmQtD8C:
-    citations: 11
+    citations: 12
     title: 'Estimating  coefficients for GRACE/GRACE-FO time-variable gravity field models using the GRACE-OBP approach: Y. Sun et al.'
     year: '2023'
   wpwzNFEAAAAJ:kNdYIx-mwKoC:
@@ -246,7 +250,7 @@ papers:
     title: 'Uncertainty analysis of bathymetry inversion in the South China Sea: a comparison of deep learning and Bayesian approaches'
     year: '2026'
   wpwzNFEAAAAJ:mB3voiENLucC:
-    citations: 23
+    citations: 24
     title: A global semi-empirical glacial isostatic adjustment (GIA) model based on Gravity Recovery and Climate Experiment (GRACE) data
     year: '2020'
   wpwzNFEAAAAJ:mVmsd5A6BfQC:
@@ -258,11 +262,11 @@ papers:
     title: Estimating the Mass Balance of the Antarctic Ice Sheet from 1985 to 2021 using the Input-Output Method
     year: '2024'
   wpwzNFEAAAAJ:ns9cj8rnVeAC:
-    citations: 1
+    citations: 2
     title: Analysis of fingerprint-derived geocentre motion time-series using multichannel singular spectrum analysis
     year: '2025'
   wpwzNFEAAAAJ:qUcmZB5y_30C:
-    citations: 41
+    citations: 42
     title: 'Singular spectrum analysis of ionospheric anomalies preceding great earthquakes: Case studies of Kaikoura and Fukushima earthquakes'
     year: '2019'
   wpwzNFEAAAAJ:qxL8FJ1GzNcC:
