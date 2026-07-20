@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-20'
 papers:
   wpwzNFEAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -50,11 +50,11 @@ papers:
     title: Assessment of GRACE monthly solutions by quantifying the noise level in mass anomaly time-series with the variance component estimation
     year: '2018'
   wpwzNFEAAAAJ:BqipwSGYUEgC:
-    citations: 46
+    citations: 49
     title: Temporal identity interaction dynamic graph convolutional network for traffic forecasting
     year: '2025'
   wpwzNFEAAAAJ:GnPB-g6toBAC:
-    citations: 3
+    citations: 4
     title: Parking-Lot Vehicles Detection from a Low-Angle Camera Perspective Based on Improved Mask R-CNN
     year: '2022'
   wpwzNFEAAAAJ:HDshCWvjkbEC:
@@ -106,7 +106,7 @@ papers:
     title: 'Unveiling GRACE-based estimation techniques: insights from multichannel singular spectrum analysis of geocentre motion'
     year: '2025'
   wpwzNFEAAAAJ:NaGl4SEjCO4C:
-    citations: 0
+    citations: 1
     title: Regional marine geoid modelling by integrating multi-source marine geodetic data with multi-layer perceptron method
     year: '2025'
   wpwzNFEAAAAJ:O3NaXMp0MMsC:
@@ -170,7 +170,7 @@ papers:
     title: 'Updated Delft Mass Transport model DMT-2: computation and validation'
     year: '2014'
   wpwzNFEAAAAJ:_FxGoFyzp5QC:
-    citations: 396
+    citations: 397
     title: Optimizing estimates of annual variations and trends in geocenter motion and J2 from a combination of GRACE data and geophysical models
     year: '2016'
   wpwzNFEAAAAJ:_Qo2XoVZTnwC:
@@ -182,15 +182,15 @@ papers:
     title: Estimating Geocenter Motion and Changes in the Earth's Dynamic Oblateness from a Statistically Optimal Combination of GRACE Data and Geophysical Models
     year: '2016'
   wpwzNFEAAAAJ:aqlVkmm33-oC:
-    citations: 63
+    citations: 64
     title: A benchmark study of numerical implementations of the sea level equation in GIA modelling
     year: '2018'
   wpwzNFEAAAAJ:bEWYMUwI8FkC:
-    citations: 32
+    citations: 33
     title: Bathymetry of the Gulf of Mexico predicted with multilayer perceptron from multisource marine geodetic data
     year: '2023'
   wpwzNFEAAAAJ:blknAaTinKkC:
-    citations: 20
+    citations: 22
     title: Predicting bathymetry using multisource differential marine geodetic data with multilayer perceptron neural network
     year: '2024'
   wpwzNFEAAAAJ:dhFuZR0502QC:
