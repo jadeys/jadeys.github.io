@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-10'
 papers:
   wpwzNFEAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Sub-basin scale sea level budgets from satellite altimetry, Argo floats and satellite gravimetry in the North Atlantic
     year: Unknown Year
   wpwzNFEAAAAJ:0EnyYjriUFMC:
-    citations: 85
+    citations: 84
     title: Improving estimates of water resources in a semi-arid region by assimilating GRACE data into the PCR-GLOBWB hydrological model
     year: '2017'
   wpwzNFEAAAAJ:2P1L_qKh6hAC:
@@ -18,7 +18,7 @@ papers:
     title: Unstructured spherical harmonic transforms and application to sea level fingerprints computation
     year: Unknown Year
   wpwzNFEAAAAJ:4DMP91E08xMC:
-    citations: 43
+    citations: 51
     title: Improvements in the monthly gravity field solutions through modeling the colored noise in the GRACE data
     year: '2018'
   wpwzNFEAAAAJ:4JMBOYKVnBMC:
@@ -50,7 +50,7 @@ papers:
     title: Assessment of GRACE monthly solutions by quantifying the noise level in mass anomaly time-series with the variance component estimation
     year: '2018'
   wpwzNFEAAAAJ:BqipwSGYUEgC:
-    citations: 49
+    citations: 51
     title: Temporal identity interaction dynamic graph convolutional network for traffic forecasting
     year: '2025'
   wpwzNFEAAAAJ:GnPB-g6toBAC:
@@ -66,7 +66,7 @@ papers:
     title: Using GRACE to explain variations in the Earth's oblateness
     year: '2019'
   wpwzNFEAAAAJ:JV2RwH3_ST0C:
-    citations: 14
+    citations: 15
     title: On performance of vertical gravity gradient determined from CryoSat-2 altimeter data over Arabian Sea
     year: '2023'
   wpwzNFEAAAAJ:J_g5lzvAfSwC:
@@ -134,7 +134,7 @@ papers:
     title: An SVMD-based mode extraction criterion for geocentre motion analysis
     year: '2026'
   wpwzNFEAAAAJ:Se3iqnhoufwC:
-    citations: 30
+    citations: 28
     title: "Observed changes in the Earth\u2019s dynamic oblateness from GRACE data and geophysical models"
     year: '2016'
   wpwzNFEAAAAJ:TFP_iSt0sucC:
@@ -146,7 +146,7 @@ papers:
     title: 'A high resolution map of linear trends in mass re-distribution from DMT-2: computation and evaluation'
     year: Unknown Year
   wpwzNFEAAAAJ:UebtZRa9Y70C:
-    citations: 23
+    citations: 22
     title: 'Sub-basin-scale sea level budgets from satellite altimetry, Argo floats and satellite gravimetry: a case study in the North Atlantic Ocean'
     year: '2016'
   wpwzNFEAAAAJ:Wp0gIr-vW9MC:
@@ -170,7 +170,7 @@ papers:
     title: 'Updated Delft Mass Transport model DMT-2: computation and validation'
     year: '2014'
   wpwzNFEAAAAJ:_FxGoFyzp5QC:
-    citations: 397
+    citations: 410
     title: Optimizing estimates of annual variations and trends in geocenter motion and J2 from a combination of GRACE data and geophysical models
     year: '2016'
   wpwzNFEAAAAJ:_Qo2XoVZTnwC:
@@ -182,15 +182,15 @@ papers:
     title: Estimating Geocenter Motion and Changes in the Earth's Dynamic Oblateness from a Statistically Optimal Combination of GRACE Data and Geophysical Models
     year: '2016'
   wpwzNFEAAAAJ:aqlVkmm33-oC:
-    citations: 64
+    citations: 66
     title: A benchmark study of numerical implementations of the sea level equation in GIA modelling
     year: '2018'
   wpwzNFEAAAAJ:bEWYMUwI8FkC:
-    citations: 33
+    citations: 34
     title: Bathymetry of the Gulf of Mexico predicted with multilayer perceptron from multisource marine geodetic data
     year: '2023'
   wpwzNFEAAAAJ:blknAaTinKkC:
-    citations: 22
+    citations: 23
     title: Predicting bathymetry using multisource differential marine geodetic data with multilayer perceptron neural network
     year: '2024'
   wpwzNFEAAAAJ:dhFuZR0502QC:
@@ -215,14 +215,14 @@ papers:
     year: '2018'
   wpwzNFEAAAAJ:hMod-77fHWUC:
     citations: 2
-    title: Real-time Detection of Illegally Parked Vehicles in Roadside Parking Areas Based on Intelligent Video Terminals
+    title: Real-time detection of illegally parked vehicles in roadside parking areas based on intelligent video terminals
     year: '2024'
   wpwzNFEAAAAJ:hqOjcs7Dif8C:
-    citations: 44
+    citations: 45
     title: Uncertainty in geocenter estimates in the context of ITRF2014
     year: '2017'
   wpwzNFEAAAAJ:iH-uZ7U-co4C:
-    citations: 23
+    citations: 25
     title: Reduced misclosure of global sea-level budget with updated Tongji-Grace2018 solution
     year: '2021'
   wpwzNFEAAAAJ:isC4tDSrTZIC:
@@ -230,7 +230,7 @@ papers:
     title: Assessment of the added value of the GOCE GPS data on the GRACE monthly gravity field solutions
     year: '2024'
   wpwzNFEAAAAJ:j3f4tGmQtD8C:
-    citations: 12
+    citations: 13
     title: 'Estimating  coefficients for GRACE/GRACE-FO time-variable gravity field models using the GRACE-OBP approach: Y. Sun et al.'
     year: '2023'
   wpwzNFEAAAAJ:kNdYIx-mwKoC:
@@ -238,7 +238,7 @@ papers:
     title: 'Updated Delft Mass Transport model DMT-2: computation and validation'
     year: '2014'
   wpwzNFEAAAAJ:k_IJM867U9cC:
-    citations: 2
+    citations: 3
     title: A calculation method of marine gravity change rate based on satellite altimetry
     year: '2024'
   wpwzNFEAAAAJ:lSLTfruPkqcC:
