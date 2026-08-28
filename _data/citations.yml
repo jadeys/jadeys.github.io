@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-28'
 papers:
   wpwzNFEAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Sub-basin scale sea level budgets from satellite altimetry, Argo floats and satellite gravimetry in the North Atlantic
     year: Unknown Year
   wpwzNFEAAAAJ:0EnyYjriUFMC:
-    citations: 84
+    citations: 86
     title: Improving estimates of water resources in a semi-arid region by assimilating GRACE data into the PCR-GLOBWB hydrological model
     year: '2017'
   wpwzNFEAAAAJ:2P1L_qKh6hAC:
@@ -18,7 +18,7 @@ papers:
     title: Unstructured spherical harmonic transforms and application to sea level fingerprints computation
     year: Unknown Year
   wpwzNFEAAAAJ:4DMP91E08xMC:
-    citations: 51
+    citations: 52
     title: Improvements in the monthly gravity field solutions through modeling the colored noise in the GRACE data
     year: '2018'
   wpwzNFEAAAAJ:4JMBOYKVnBMC:
@@ -50,7 +50,7 @@ papers:
     title: Assessment of GRACE monthly solutions by quantifying the noise level in mass anomaly time-series with the variance component estimation
     year: '2018'
   wpwzNFEAAAAJ:BqipwSGYUEgC:
-    citations: 51
+    citations: 54
     title: Temporal identity interaction dynamic graph convolutional network for traffic forecasting
     year: '2025'
   wpwzNFEAAAAJ:GnPB-g6toBAC:
@@ -82,7 +82,7 @@ papers:
     title: Orthometric height connection across sea with ship-borne gravimetry and GNSS measurement along the ship route
     year: '2017'
   wpwzNFEAAAAJ:LkGwnXOMwfcC:
-    citations: 30
+    citations: 31
     title: Statistically optimal estimation of degree-1 and C20 coefficients based on GRACE data and an ocean bottom pressure model
     year: '2017'
   wpwzNFEAAAAJ:M05iB0D1s5AC:
@@ -170,7 +170,7 @@ papers:
     title: 'Updated Delft Mass Transport model DMT-2: computation and validation'
     year: '2014'
   wpwzNFEAAAAJ:_FxGoFyzp5QC:
-    citations: 410
+    citations: 416
     title: Optimizing estimates of annual variations and trends in geocenter motion and J2 from a combination of GRACE data and geophysical models
     year: '2016'
   wpwzNFEAAAAJ:_Qo2XoVZTnwC:
@@ -238,7 +238,7 @@ papers:
     title: 'Updated Delft Mass Transport model DMT-2: computation and validation'
     year: '2014'
   wpwzNFEAAAAJ:k_IJM867U9cC:
-    citations: 3
+    citations: 4
     title: A calculation method of marine gravity change rate based on satellite altimetry
     year: '2024'
   wpwzNFEAAAAJ:lSLTfruPkqcC:
@@ -270,7 +270,7 @@ papers:
     title: 'Singular spectrum analysis of ionospheric anomalies preceding great earthquakes: Case studies of Kaikoura and Fukushima earthquakes'
     year: '2019'
   wpwzNFEAAAAJ:qxL8FJ1GzNcC:
-    citations: 8
+    citations: 9
     title: Climate-driven seasonal geocenter motion during the GRACE period
     year: '2018'
   wpwzNFEAAAAJ:r0BpntZqJG4C:
